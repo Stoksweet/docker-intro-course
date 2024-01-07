@@ -162,4 +162,9 @@ Step 19 - Lets delete those container instances all at once:
     docker rm container1 container2 container3 container4
 ```
 
+Step 20 - List containers:
+```bash
+    docker ps -a
+```
+
 And there you have it. A hands on intro to Docker networks. This is a very powerful tool for a lot more than just application development, these skills extend into networking, cybersecurity and more. 
