@@ -9,5 +9,5 @@ I'm a full stack JS/TS developer with some Cloud experience among other things. 
 
 ## 💌 Sponsors
 This course was made possible by the good folk at Melsoft Academy. If you are interested in a bootcamp approach to upskilling anywhere, visit https://melsoftacademy.com/.
-![Logo](https://melsoftacademy.com/wp-content/uploads/2022/09/Blue-150x150.png)
+![Logo](https://melsoftacademy.com/wp-content/uploads/2020/12/White-1024x1024.png)
 
